@@ -1,8 +1,8 @@
 ---
-date: 2020-04-05T22:43:31Z
+date: 2017-06-20T05:00:00Z
 title: My History
 author: Sukhi Grewal
-hero_image: "/content/images/heather-shevlin-3B_NrzTjajc-unsplash.jpg"
+hero_image: "/content/images/kunj-parekh-H69EgivmCjE-unsplash.jpg"
 
 ---
 Bikram
