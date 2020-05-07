@@ -35,6 +35,12 @@ fields:
   - type: text
     name: github_handle
     label: github_handle
+- name: center_concept
+  type: text
+  config:
+    required: false
+  label: gkyr
+  description: wellness center health beauty concept
 - name: background_color
   type: color
   label: background_color
