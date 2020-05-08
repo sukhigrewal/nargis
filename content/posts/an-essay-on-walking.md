@@ -1,5 +1,5 @@
 ---
-date: 2020-04-09T22:43:31Z
+date: 
 title: Post 3
 author: Sukhi Grewal
 hero_image: "/content/images/heather-shevlin-3B_NrzTjajc-unsplash.jpg"
