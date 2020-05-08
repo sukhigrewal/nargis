@@ -1,7 +1,7 @@
 ---
 date: 
 hero_image: "/content/images/kunj-parekh-H69EgivmCjE-unsplash.jpg"
-title: What nargis?
+title: What is nargis?
 author: Sukhi Grewal
 
 ---
