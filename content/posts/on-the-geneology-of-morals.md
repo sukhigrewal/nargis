@@ -1,5 +1,5 @@
 ---
-title: Why nargis.
+title: Why nargis. Purpose statements and aims.
 date: 2020-03-13T22:37:31Z
 hero_image: "/content/images/francesco-mazzoli-0xh3QPqcfKM-unsplash.jpg"
 author: Sukhi Grewal
@@ -9,7 +9,7 @@ I have wanted to make nargis for a long time, to typify practices which develope
 
 Experiences in life are formative and I believe light must
 
-One of the aims of nargis is to enhance the knowledge of the western practitioner. Similarly, to improve that of the eastern one. 
+One of the aims of nargis is to enhance the knowledge of the western practitioner. Similarly, to enhance that of the eastern one. 
 
 # “Why?”
 
