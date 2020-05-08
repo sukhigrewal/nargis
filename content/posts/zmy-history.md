@@ -1,5 +1,5 @@
 ---
-date: 2020-03-03T06:00:00Z
+date: 
 title: What is nargis?
 author: Sukhi Grewal
 hero_image: "/content/images/kunj-parekh-H69EgivmCjE-unsplash.jpg"
