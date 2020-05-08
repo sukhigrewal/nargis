@@ -1,6 +1,6 @@
 ---
 title: Why nargis? A statement of purpose and early aims.
-date: 2020-03-13T22:37:31Z
+date: 
 hero_image: "/content/images/francesco-mazzoli-0xh3QPqcfKM-unsplash.jpg"
 author: Sukhi Grewal
 
