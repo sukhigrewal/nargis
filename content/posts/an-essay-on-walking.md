@@ -1,7 +1,7 @@
 ---
-date: 2019-07-31T22:43:31Z
-title: An Essay on Walking
-author: Robert Thoreau
+date: 2020-04-18T22:43:31Z
+title: Post 3
+author: Sukhi Grewal
 hero_image: "/content/images/heather-shevlin-3B_NrzTjajc-unsplash.jpg"
 
 ---
