@@ -1,5 +1,5 @@
 ---
-date: 2020-04-09T22:42:09Z
+date: 
 title: Post 2
 author: Sukhi Grewal
 hero_image: "/content/images/adrien-olichon--aOsCcTJXWY-unsplash.jpg"
