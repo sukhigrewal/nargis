@@ -29,6 +29,21 @@ fields:
   - type: text
     name: email
     label: email
+  - name: twitter_handle
+    type: text
+    config:
+      required: false
+    label: twitter_handle
+  - name: github_handle
+    type: text
+    config:
+      required: false
+    label: github_handle
+  - name: instagram_handle
+    type: text
+    config:
+      required: false
+    label: instagram_handle
 - name: background_color
   type: color
   label: background_color
