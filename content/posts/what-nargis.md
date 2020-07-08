@@ -7,7 +7,7 @@ author: Sukhi Grewal
 ---
 Welcome to nargis.
 
-Thank you for visiting nargis blog, code name nargis, **a blog maintained to increase knowledge.**
+Thank you for visiting nargis blog, code name nargis, **a self-care blog maintained to increase experience knowledge.**
 
 This work is created by a single author. It's presented as a self-exploration paired with research into topics surrounding **yoga**, **the mind, the body and more: beauty, emotion, stress, psychology**. Outside a dialogue where living and lifestyle are the main topics, nargis is a place to come for art, music, poetry, and film. Something I knew I needed but didn't know which form it would take, **nargis is an homage to Indian culture** and traditions introduced to me by family (music), exploration (art) and study (yoga). These areas have been formative to my own practice and identity, and **nargis is meant to free me, making room to find new modes of being**, and new things out about myself, my body, my environment. I'm using nargis to take me where I want to go. This is what works for me but nargis is written for those who want to know what that is.
 
