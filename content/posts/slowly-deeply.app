@@ -1,7 +1,7 @@
 ---
-date: 2020-05-25T05:00:00Z
-hero_image: "/content/images/elcarito-CRn-_80z4SE-unsplash.jpg"
-title: Slowly, deeply
+date: 2020-05-29T23:15:34Z
+hero_image: "/content/images/jj-ying-7JX0-bfiuxQ-unsplash.jpg"
+title: Slowly, Deeply
 author: Sukhi Grewal
 
 ---
@@ -12,22 +12,23 @@ On the other hand, I think about my mat. I think about the feeling of lying down
 First up on nargis, you'll see the following. I did:
 
 3o days of an **ayurvedic morning routine** including  
+
 3o days of **sun salutations**
 
 3o days of **abhyanga** and **a full bathing ritual**
 
 3o nights of **self-care rituals before bed** including  
+
 3o nights of **moon salutations** and  
+
 3o nights of **sleeping at the same time, early**
 
 3o days of **hitting the mat, making the mat my home**
 
 3o days of **writing on one, single chosen writing project.**
 
-3o days of **exploring chosen books and works,** with archives kept [here](https://s-k.netlify.app/ "Reading List"), of what I'm reading
+3o days of **exploring chosen books and works,** with archives kept \[here\]([https://s-k.netlify.app/](https://s-k.netlify.app/ "https://s-k.netlify.app/") "Reading List"), of what I'm reading
 
 and this is what happened.
 
 Thank you for visiting nargis.
-
-![](/content/images/adrien-olichon--aOsCcTJXWY-unsplash.jpg)
