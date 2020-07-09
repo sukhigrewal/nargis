@@ -1,7 +1,7 @@
 {
   "name": "nargis blog code name nargis",
   "private": true,
-  "description": "A self-care blog maintainted to increase knowledge.",
+  "description": "A self-care blog maintained to increase knowledge.",
   "license": "MIT",
   "version": "0.1.0",
   "scripts": {
