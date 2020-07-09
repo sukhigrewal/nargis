@@ -5,7 +5,7 @@
   "license": "MIT",
   "version": "0.1.0",
   "scripts": {
-    "build": "gatsby build",
+    "build": "npm run build",
     "dev": "gatsby develop -o",
     "develop": "yarn dev",
     "format": "prettier --write src/**/*.{js,jsx}",
@@ -38,8 +38,8 @@
     "prettier": "^1.18.2"
   },
   "keywords": [
-    "gatsby",
-    "forestry"
+    "sukhi",
+    "grewal"
   ],
   "repository": {
     "type": "git",
