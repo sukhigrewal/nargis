@@ -1,5 +1,5 @@
 ---
-date: 2020-05-29T23:15:34Z
+date:2020-05-18T05:00:00.000+00:00
 hero_image: "/content/images/jj-ying-7JX0-bfiuxQ-unsplash.jpg"
 title: Slowly, Deeply
 author: Sukhi Grewal
