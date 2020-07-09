@@ -1,12 +1,5 @@
 ---
-date: 2020-05-08T05:00:00.000+00:00
-hero_image: "/content/images/kunj-parekh-H69EgivmCjE-unsplash.jpg"
-title: What is nargis?
-author: Sukhi Grewal
-
----
----
-date:2020-05-18T05:00:00.000+00:00
+date: 2020-06-08T05:00:00.000+00:00
 hero_image: "/content/images/jj-ying-7JX0-bfiuxQ-unsplash.jpg"
 title: Slowly, Deeply
 author: Sukhi Grewal
