@@ -1,5 +1,5 @@
 {
-  "name": "nargis blog code name nargis",
+  "name": "foresry-starter-blog-gatsby",
   "private": true,
   "description": "A self-care blog maintained to increase knowledge.",
   "license": "MIT",
@@ -44,6 +44,6 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/sukhigrewal/nargis"
+    "url": "https://github.com/kendallstrautman/brevifolia-gatsby-forestry"
   }
 }
