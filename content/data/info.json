@@ -1,6 +1,6 @@
 {
   "description": "<p>The nargis blog code name nargis is a self-care blog maintained to increase knowledge.</p>",
-  "cta": "<p>To learn more about me, visit my <a href=\"http://sukhikgrewal.com/\" title=\"My Html Page\">personal site</a>.</p>",
+  "cta": "<p>To learn more about me, visit my <a href=\"http://sukhikgrewal.netlify.app/\" title=\"My Html Page\">personal site</a>.</p>",
   "contact": {
     "email": "sukhigr@gmail.com",
     "twitter_handle": "sukhikg",
