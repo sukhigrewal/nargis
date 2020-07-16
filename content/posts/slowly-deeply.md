@@ -5,9 +5,9 @@ title: Slowly, Deeply
 author: Sukhi Grewal
 
 ---
-Sometimes I want to lay down. My years living in LA were characterized by feeling like I wanted to be underwater. As I write it, I feel it again though I thought about it last nearly five years ago: submerging. 
+Sometimes I want to lay down. My years living in LA were characterized by feeling like I wanted to be underwater. As I write it, I feel it again though I thought about it last nearly five years ago: submerging.
 
-I know I feel overwhelmed about everything, and if I'm honest, I am overwhelmed by others. It's hard to say how much and how frequently I feel this way. But I do, it's a lot, and I want to lie down, I want to be underwater. 
+I know I feel overwhelmed about everything, and if I'm honest, I am overwhelmed by others. It's hard to say how much and how frequently I feel this way. But I do, it's a lot, and I want to lie down, I want to be underwater.
 
 The sensational, optical pleasure of blue water all around me, the coolness of being alone, the performative, isolating act of floating, the peaceful work of moving and being. The resisting of pulling and catching water, the physics of dancing waves, light and motion. It's a relaxing dream, a relief to visualize. I wish life were like this, where I could go for a swim, where wanting to be underwater in LA or Texas wasn't far-fetched, or otherwise a symbol of pernicious emotional states.
 
@@ -16,7 +16,7 @@ On the other hand, I think about my mat. I think about the feeling of lying down
 First up on nargis, you'll see the following. I did...:
 
 30 days of an **ayurvedic morning routine** including  
-**dry-brushing** and   
+30 days of **dry-brushing** and  
 30 days of **sun salutations**
 
 30 days of **abhyanga** and **a full bathing ritual**
@@ -27,9 +27,9 @@ First up on nargis, you'll see the following. I did...:
 
 30 days of **hitting the mat, making the mat my home**
 
-30 days of **working on one, single chosen writing project.**
+30 days of **working on a single chosen writing project.**
 
-30 days of **exploring chosen books, works, and classes** with archives kept [here](https://s-k.netlify.app/ "Reading List"), of what I'm reading
+30 days of **exploring chosen books, and classes** with archives kept [here](https://s-k.netlify.app/ "Reading List"), of what I'm reading and working on
 
 ...and this is what happened.
 
